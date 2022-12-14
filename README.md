@@ -5,6 +5,7 @@
 Project was developed during [XRPL NFT hackathon.](https://devpost.com/software/xrp-nft-attendence)
 
 A PoA(proof of attendance system) built on the XRP ledger has the potential to provide an easy and secure way to verify attendance at a wide range of events and activities happening in real life or online. Few potential uses for it are: 
+
 ⚫University students can use the system to quickly verify attendance at lectures, seminars or other educational events. 
 
 ⚫Large events like conferences etc where it can be difficult to keep track of who has attended and who didn't. 
