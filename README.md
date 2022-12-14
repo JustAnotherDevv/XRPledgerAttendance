@@ -1,6 +1,6 @@
 #xrpl_poa_nft_hackathon_frontend
 
-##Project information
+## Project information
 
 Project was developed during [XRPL NFT hackathon.](https://devpost.com/software/xrp-nft-attendence)
 
@@ -14,7 +14,7 @@ A PoA(proof of attendance system) built on the XRP ledger has the potential to p
 
 This repository contains just frontend for the project, for the server see [this one.](https://github.com/JustAnotherDevv/xrpl_poa_nft_hackathon_server/)
 
-##How to setup
+## How to setup
 
 -execute `npm i` in CLI
 -execute `npm run dev` in CLI
