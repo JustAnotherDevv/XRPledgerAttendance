@@ -1,4 +1,4 @@
-#xrpl_poa_nft_hackathon_frontend
+# xrpl_poa_nft_hackathon_frontend
 
 ## Project information
 
